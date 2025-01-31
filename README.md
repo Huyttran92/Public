@@ -1,1 +1,1 @@
-# Public
+# Public collection of SH scripts
